@@ -13,7 +13,7 @@ If you want to know a little more about me, stay here and see if I can help you 
 My goal is to help develop, implement new technologies.📌✨<br>
 
 I'm a Front-End Developer.💡🔛<br>
-But I also have knowledge in: Angular, Java SCRIPT, Node JS, Python, C, PHP, C #, Flutter and COBOL.<br>
+But I also have knowledge in: Angular, Java SCRIPT, Node JS, Python,PHP, Flutter and COBOL.<br>
 I am a student of Systems Analysis and Development at Fatec - Americana. 📚👨🎓<br>
 And in my spare time I am curious and I am improving in API, Data Science, Flutter and new technologies.<br>
 
